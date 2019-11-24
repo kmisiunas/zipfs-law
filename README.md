@@ -6,4 +6,12 @@
 
 `Log10(freq) = 1.06633 - 1.01469 * Log10(rank)`
 
-As computed from 52 lithuanin books. 
+Computed using 52 books. 
+
+## German language 
+
+<img width="357" alt="Screenshot 2019-11-24 at 21 56 59" src="https://user-images.githubusercontent.com/4820843/69501596-a757f000-0f06-11ea-971f-3eef2cb7e5ab.png">
+
+`Log10(freq) = 1.394 -1.14518 * Log10(rank)`
+
+Computed using 125 books. 
